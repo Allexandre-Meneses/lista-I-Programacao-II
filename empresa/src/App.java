@@ -18,6 +18,7 @@ public class App {
 
         empresa.cadastraFuncionario(new Funcionario("Allexandre", "00000000004", 34, new Cargo("Programador", 20000.00)));
 
+        //Método para mostrar todos os funcionários da empresa
         empresa.mostraFuncionarios();
     }
 }
