@@ -1,3 +1,8 @@
+import models.Agendamento;
+import models.Arena;
+import models.Cliente;
+import models.Esporte;
+
 public class App {
     public static void main(String[] args) throws Exception {
         //Instancia de Arena

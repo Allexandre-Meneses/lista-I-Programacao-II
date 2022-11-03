@@ -1,3 +1,4 @@
+package models;
 public class Agendamento {
     Cliente cliente;
     Esporte esporte;
